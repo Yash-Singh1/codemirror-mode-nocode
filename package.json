@@ -1,0 +1,23 @@
+{
+  "name": "codemirror-mode-nocode",
+  "version": "1.0.0",
+  "description": "CodeMirror mode for nocode",
+  "main": "index.js",
+  "keywords": [
+    "nocode",
+    "codemirror"
+  ],
+  "author": "Yash Singh",
+  "license": "MIT",
+  "dependencies": {
+    "codemirror": "^5.61.1"
+  },
+  "homepage": "https://github.com/Yash-Singh1/codemirror-mode-nocode#readme",
+  "bugs": {
+    "url": "https://github.com/Yash-Singh1/codemirror-mode-nocode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yash-Singh1/codemirror-mode-nocode"
+  }
+}
