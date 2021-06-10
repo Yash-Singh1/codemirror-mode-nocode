@@ -1,6 +1,6 @@
 {
   "name": "codemirror-mode-nocode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CodeMirror mode for nocode",
   "main": "index.js",
   "keywords": [
