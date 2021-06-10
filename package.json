@@ -19,5 +19,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Yash-Singh1/codemirror-mode-nocode"
+  },
+  "devDependencies": {
+    "nyc": "^15.1.0",
+    "tape": "^5.2.2"
+  },
+  "scripts": {
+    "test": "nyc --reporter=lcov --reporter=text-summary tape test/**/*.test.js"
   }
 }

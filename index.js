@@ -1,4 +1,5 @@
 (function (mod) {
+  /* istanbul ignore next */
   if (typeof exports == 'object' && typeof module == 'object')
     // CommonJS
     mod(require('codemirror'));
